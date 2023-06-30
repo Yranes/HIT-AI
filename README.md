@@ -7,4 +7,4 @@
 
 ## Lab3 不确定性推理
 
-## Lab4 基于Mindspore框架与ModelArts 平台的MNIST手写体识别实验
+## Lab4 基于Mindspore框架与ModelArts平台的MNIST手写体识别实验
